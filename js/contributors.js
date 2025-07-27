@@ -28,7 +28,7 @@ const contributors = [
     {
         username: 'gingrspacecadet',
         profilePic: 'https://avatars.githubusercontent.com/u/193513291',
-        title: 'Wiki Founder & Web Dev',
+        title: 'Wiki Founder & Lead Web Dev',
         github: 'gingrspacecadet',
         discord: '1059153916396306554'
     },
