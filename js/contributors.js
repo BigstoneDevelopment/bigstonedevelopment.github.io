@@ -66,7 +66,7 @@ const contributors = [
     },
 
     {
-        username: 'aFormalParrot / Artem22102013',
+        username: 'aFormalParrot',
         profilePic: 'https://avatars.githubusercontent.com/u/119873267',
         title: 'Web Dev',
         github: 'Artem22102013',
