@@ -2,7 +2,7 @@ const contributors = [
     {
         username: 'Huckle / CrazyH2',
         profilePic: 'https://avatars.githubusercontent.com/u/87752773',
-        title: 'Org Founder & Datapack Dev',
+        title: 'Org Founder & Datapack Dev & Lead Web dev',
         github: 'CrazyH2',
         discord: '554368136552644638',
         youtube: 'CodingAlpha',
@@ -28,7 +28,7 @@ const contributors = [
     {
         username: 'gingrspacecadet',
         profilePic: 'https://avatars.githubusercontent.com/u/193513291',
-        title: 'Wiki Founder & Lead Web Dev',
+        title: 'Wiki Founder',
         github: 'gingrspacecadet',
         discord: '1059153916396306554'
     },
@@ -63,15 +63,6 @@ const contributors = [
         profilePic: 'https://cdn.discordapp.com/avatars/905469145846525973/35290c036a2e036122194f9b56db6003.webp',
         title: 'Automation Dev',
         discord: '905469145846525973'
-    },
-
-    {
-        username: 'aFormalParrot',
-        profilePic: 'https://avatars.githubusercontent.com/u/119873267',
-        title: 'Web Dev',
-        github: 'Artem22102013',
-        discord: '1008254028649607249',
-        youtube: 'singaporedallofthem'
     }
 ];
 
