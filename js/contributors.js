@@ -63,6 +63,16 @@ const contributors = [
         profilePic: 'https://cdn.discordapp.com/avatars/905469145846525973/35290c036a2e036122194f9b56db6003.webp',
         title: 'Automation Dev',
         discord: '905469145846525973'
+    },
+
+
+    {
+        username: 'aFormalParrot',
+        profilePic: 'https://avatars.githubusercontent.com/u/119873267',
+        title: 'Former Web Dev (OG Community Web)',
+        github: 'Artem22102013',
+        discord: '1008254028649607249',
+        youtube: 'singaporedallofthem'
     }
 ];
 
