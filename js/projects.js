@@ -4,21 +4,21 @@ const projects = [
         description: 'A datapack for building contraptions with Bigstone Components without needing to install mods!',
         technologies: ['Datapack', 'Resource Pack', 'NodeJS (For scripts)'],
         imageUrl: '/assets/project_thumbnails/bigstone_sandbox.png',
-        link: 'https://sandbox.bigstone.ovh'
+        link: 'https://sandbox.bigstone.dev'
     },
     {
         title: 'Bigstone Wiki',
         description: 'A wiki for Bigstone Sandbox and Bigstone port standards.',
         technologies: ['Markdown', 'Jekyll'],
         imageUrl: '/assets/project_thumbnails/bigstone_wiki.png',
-        link: 'https://wiki.bigstone.ovh'
+        link: 'https://wiki.bigstone.dev'
     },
     {
         title: 'Bigstone Sandbox Website',
         description: 'A place to find and upload bigstone components. It interacts with the datapack for importing and exporting!',
         technologies: ['EJS', 'CSS', 'JS', "NodeJS"],
         imageUrl: '/assets/logo.png',
-        link: 'https://community.bigstone.ovh'
+        link: 'https://sandbox.bigstone.dev'
     }
 ];
 
