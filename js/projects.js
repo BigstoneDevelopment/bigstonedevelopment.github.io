@@ -14,10 +14,10 @@ const projects = [
         link: 'https://wiki.bigstone.ovh'
     },
     {
-        title: 'Community Website',
-        description: 'A website where the community can submit new ports and interact with other people.',
-        technologies: ['HTML', 'CSS', 'JS', "NodeJS"],
-        imageUrl: '/assets/project_thumbnails/community_web.png',
+        title: 'Bigstone Sandbox Website',
+        description: 'A place to find and upload bigstone components. It interacts with the datapack for importing and exporting!',
+        technologies: ['EJS', 'CSS', 'JS', "NodeJS"],
+        imageUrl: '/assets/logo.png',
         link: 'https://community.bigstone.ovh'
     }
 ];
