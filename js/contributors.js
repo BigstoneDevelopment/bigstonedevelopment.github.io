@@ -56,7 +56,7 @@ const contributors = [
         title: 'Lead Automation Dev',
         github: 'guigui0246',
         discord: '436178855104086037',
-        youtube: 'guigui0246_2'
+        youtube: 'guigui0246'
     },
     {
         username: 'Chickon_20',
