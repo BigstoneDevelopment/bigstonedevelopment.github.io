@@ -95,3 +95,18 @@ main p {
     vertical-align: middle;
     fill: #000;
 }
+
+@media (pointer:none), (pointer:coarse) {
+    main {
+        margin-top: 40px !important;
+        width: 90% !important;
+    }
+
+    main h1 {
+        font-size: 2em !important;
+    }
+
+    main p {
+        font-size: 1em !important;
+    }
+}
