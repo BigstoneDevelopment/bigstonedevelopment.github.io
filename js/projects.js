@@ -60,5 +60,5 @@ projects.forEach(project => {
     techElement.textContent = techElement.textContent.slice(0, -2);
     metaElement.appendChild(techElement);
 
-    document.querySelector("main").appendChild(projectElement);
+    document.querySelector("main .projects").appendChild(projectElement);
 });
