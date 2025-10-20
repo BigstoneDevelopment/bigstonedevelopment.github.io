@@ -28,7 +28,9 @@ header {
 	position: absolute;
 	top: 0;
 	left: 0;
-	width: -webkit-fill-available;
+	width: -moz-available;
+    width: -webkit-fill-available;
+    width: fill-available;
 	border-bottom: 0.5px solid rgba(68, 68, 68, 0.65);
 	padding-left: 150px;
 	padding-right: 150px;
