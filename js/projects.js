@@ -1,5 +1,12 @@
 const projects = [
     {
+        title: 'DPM (Datapack Package Manager)',
+        description: 'Datapack Package Manager (DPM) is a command line utility which manages datapack libraries/packages.',
+        technologies: ['NodeJS'],
+        imageUrl: '/assets/project_thumbnails/dpm.png',
+        link: 'https://github.com/BigstoneDevelopment/DPM'
+    },
+    {
         title: 'Bigstone Sandbox',
         description: 'A datapack for building contraptions with Bigstone Components without needing to install mods!',
         technologies: ['Datapack', 'Resource Pack', 'NodeJS (For scripts)'],
